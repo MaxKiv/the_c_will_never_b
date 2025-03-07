@@ -1,0 +1,9 @@
+.direnv
+compile_commands.json
+.cache
+
+.godot
+
+# build artifacts
+build
+.sconsign.dblite

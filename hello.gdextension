@@ -1,0 +1,8 @@
+[configuration]
+entry_symbol = "entry"
+compatibility_minimum = "4.1"
+
+[libraries]
+linux.x86_64 = "res://build/libhello.so"
+windows.x86_64 = "res://build/hello.dll"
+macos = "res://build/libhello.dylib"
